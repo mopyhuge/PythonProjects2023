@@ -1,0 +1,312 @@
+***************************************
+Created By: Dylan Cowley
+Students Name: Dylan Cowley
+Grade: A
+Total Questions: 25
+Total Correct 1
+Percentage: 4%
+Start Time: 2023-01-11 12:20:21.235883
+End Time: 2023-01-11 12:20:58.538901
+Total Time: 0:00:37.303018
+***************************************
+
+***************************************
+Created By: Dylan Cowley
+Students Name: Dylan Cowley
+Grade: F
+Total Questions: 20
+Total Correct 0
+Percentage: 0%
+Start Time: 2023-01-11 12:27:28.332537
+End Time: 2023-01-11 12:27:46.407167
+Total Time: 0:00:18.074630
+***************************************
+
+***************************************
+Created By: Dylan Cowley
+Students Name: Dylan Cowley
+Grade: F
+Total Questions: 24
+Total Correct 11
+Percentage: 45%
+Start Time: 2023-01-11 12:36:35.290280
+End Time: 2023-01-11 12:38:20.892540
+Total Time: 0:01:45.602260
+***************************************
+
+***************************************
+Created By: Dylan Cowley
+Students Name: Dylan Cowley
+Grade: F
+Total Questions: 24
+Total Correct 11
+Percentage: 45%
+Start Time: 2023-01-11 12:36:35.290280
+End Time: 2023-01-11 12:38:24.736348
+Total Time: 0:01:49.446068
+***************************************
+
+***************************************
+Created By: Dylan Cowley
+Students Name: Dylan Cowley
+Grade: F
+Total Questions: 25
+Total Correct 17
+Percentage: 68%
+Start Time: 2023-01-11 12:39:04.600391
+End Time: 2023-01-11 12:40:50.167186
+Total Time: 0:01:45.566795
+***************************************
+
+***************************************
+Created By: Dylan Cowley
+Students Name: Dylan Cowley
+Grade: C
+Total Questions: 25
+Total Correct 19
+Percentage: 76%
+Start Time: 2023-01-11 12:48:47.953195
+End Time: 2023-01-11 12:49:42.386564
+Total Time: 0:00:54.433369
+***************************************
+
+***************************************
+Created By: Dylan Cowley
+Students Name: Dylan Cowley
+Grade: B
+Total Questions: 25
+Total Correct 21
+Percentage: 84%
+Start Time: 2023-01-11 12:54:01.540641
+End Time: 2023-01-11 12:54:49.009365
+Total Time: 0:00:47.468724
+***************************************
+
+***************************************
+Created By: Karol Runge
+Students Name: Dylan Cowley
+Grade: F
+Total Questions: 25
+Total Correct 5
+Percentage: 20%
+Start Time: 2023-01-11 13:26:54.371932
+End Time: 2023-01-11 13:28:42.498117
+Total Time: 0:01:48.126185
+***************************************
+
+***************************************
+Created By: Karol Runge
+Students Name: Dylan Cowley
+Grade: A
+Total Questions: 25
+Total Correct 24
+Percentage: 96%
+Start Time: 2023-01-11 13:37:43.145240
+End Time: 2023-01-11 13:38:56.999997
+Total Time: 0:01:13.854757
+***************************************
+
+***************************************
+Created By: Karol Runge
+Students Name: Dylan Cowley
+Grade: A
+Total Questions: 25
+Total Correct 24
+Percentage: 96%
+Start Time: 2023-01-11 13:37:43.145240
+End Time: 2023-01-11 13:39:04.858777
+Total Time: 0:01:21.713537
+***************************************
+
+***************************************
+Created By: Karol Runge
+Students Name: Dylan Cowley
+Grade: A
+Total Questions: 25
+Total Correct 24
+Percentage: 96%
+Start Time: 2023-01-11 13:37:43.145240
+End Time: 2023-01-11 13:39:05.609571
+Total Time: 0:01:22.464331
+***************************************
+
+***************************************
+Created By: Karol Runge
+Students Name: Dylan Cowley
+Grade: A
+Total Questions: 25
+Total Correct 24
+Percentage: 96%
+Start Time: 2023-01-11 13:37:43.145240
+End Time: 2023-01-11 13:39:06.015724
+Total Time: 0:01:22.870484
+***************************************
+
+***************************************
+Created By: Karol Runge
+Students Name: Dylan Cowley
+Grade: A
+Total Questions: 25
+Total Correct 24
+Percentage: 96%
+Start Time: 2023-01-11 13:37:43.145240
+End Time: 2023-01-11 13:39:06.171961
+Total Time: 0:01:23.026721
+***************************************
+
+***************************************
+Created By: Karol Runge
+Students Name: Dylan Cowley
+Grade: A
+Total Questions: 25
+Total Correct 24
+Percentage: 96%
+Start Time: 2023-01-11 13:37:43.145240
+End Time: 2023-01-11 13:39:06.484398
+Total Time: 0:01:23.339158
+***************************************
+
+***************************************
+Created By: Karol Runge
+Students Name: Dylan Cowley
+Grade: A
+Total Questions: 25
+Total Correct 24
+Percentage: 96%
+Start Time: 2023-01-11 13:37:43.145240
+End Time: 2023-01-11 13:39:06.609366
+Total Time: 0:01:23.464126
+***************************************
+
+***************************************
+Created By: Karol Runge
+Students Name: Dylan Cowley
+Grade: A
+Total Questions: 25
+Total Correct 24
+Percentage: 96%
+Start Time: 2023-01-11 13:37:43.145240
+End Time: 2023-01-11 13:39:06.859316
+Total Time: 0:01:23.714076
+***************************************
+
+***************************************
+Created By: Karol Runge
+Students Name: Dylan Cowley
+Grade: A
+Total Questions: 25
+Total Correct 24
+Percentage: 96%
+Start Time: 2023-01-11 13:37:43.145240
+End Time: 2023-01-11 13:39:07.031075
+Total Time: 0:01:23.885835
+***************************************
+
+***************************************
+Created By: Karol Runge
+Students Name: Dylan Cowley
+Grade: A
+Total Questions: 25
+Total Correct 24
+Percentage: 96%
+Start Time: 2023-01-11 13:37:43.145240
+End Time: 2023-01-11 13:39:07.171757
+Total Time: 0:01:24.026517
+***************************************
+
+***************************************
+Created By: Karol Runge
+Students Name: Dylan Cowley
+Grade: A
+Total Questions: 25
+Total Correct 24
+Percentage: 96%
+Start Time: 2023-01-11 13:37:43.145240
+End Time: 2023-01-11 13:39:07.312296
+Total Time: 0:01:24.167056
+***************************************
+
+***************************************
+Created By: Karol Runge
+Students Name: Dylan Cowley
+Grade: A
+Total Questions: 25
+Total Correct 24
+Percentage: 96%
+Start Time: 2023-01-11 13:37:43.145240
+End Time: 2023-01-11 13:39:07.468434
+Total Time: 0:01:24.323194
+***************************************
+
+***************************************
+Created By: Karol Runge
+Students Name: Dylan Cowley
+Grade: A
+Total Questions: 25
+Total Correct 24
+Percentage: 96%
+Start Time: 2023-01-11 13:37:43.145240
+End Time: 2023-01-11 13:39:07.624806
+Total Time: 0:01:24.479566
+***************************************
+
+***************************************
+Created By: Karol Runge
+Students Name: Dylan Cowley
+Grade: A
+Total Questions: 25
+Total Correct 24
+Percentage: 96%
+Start Time: 2023-01-11 13:37:43.145240
+End Time: 2023-01-11 13:39:07.734132
+Total Time: 0:01:24.588892
+***************************************
+
+***************************************
+Created By: Karol Runge
+Students Name: Dylan Cowley
+Grade: A
+Total Questions: 25
+Total Correct 24
+Percentage: 96%
+Start Time: 2023-01-11 13:37:43.145240
+End Time: 2023-01-11 13:39:07.859115
+Total Time: 0:01:24.713875
+***************************************
+
+***************************************
+Created By: Karol Runge
+Students Name: Dylan Cowley
+Grade: A
+Total Questions: 25
+Total Correct 24
+Percentage: 96%
+Start Time: 2023-01-11 13:37:43.145240
+End Time: 2023-01-11 13:39:08.030739
+Total Time: 0:01:24.885499
+***************************************
+
+***************************************
+Created By: Karol Runge
+Students Name: Dylan Cowley
+Grade: A
+Total Questions: 25
+Total Correct 24
+Percentage: 96%
+Start Time: 2023-01-11 13:37:43.145240
+End Time: 2023-01-11 13:39:08.218399
+Total Time: 0:01:25.073159
+***************************************
+
+***************************************
+Created By: Karol Runge
+Students Name: Dylan Cowley
+Grade: A
+Total Questions: 25
+Total Correct 25
+Percentage: 100%
+Start Time: 2023-01-11 13:39:18.749640
+End Time: 2023-01-11 13:40:10.498154
+Total Time: 0:00:51.748514
+***************************************
+

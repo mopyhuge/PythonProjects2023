@@ -1,0 +1,201 @@
+Karol Runge
+Python Basics
+Where does the name Python come from
+1 The snake
+2 Some guy was bored and just named it Python
+3 I dunno
+4 The show Monty Python's Flying Circus
+4
+The name of the programing language was decided when Guido von Rossum read the published scripts from Monty Python's Flying Circus
+Python Basics
+Who is the creator of the Python language
+1 Ben Worcher
+2 Billy
+3 Mark von Rossum
+4 Guido van Rossum
+4
+the creator of the programing language python is named Guido van Rossum
+The zen of python
+What is the zen of python
+1 A meditation strategey
+2 The reason to life
+3 Suffering
+4 A collection of 19 good practices in python
+4
+The zen of python is a collection of 19 phrases that explain a few good practices to have when programing in python
+the zen of python
+Which of these phrases is from te zen of python
+1 keep your code compressed
+2 Keep your code organized
+3 Readability is not crucial but nice to have
+4 Beutiful is better than ugly
+4
+beutiful is better than ugly is the first line in the zen of python
+Logic and definition
+What two variables does a boolean consist of
+1 One and Zero
+2 Yes and No
+3 true and false
+4 True and False
+4
+A bool can only have a capital true and false otherwise you will get a logic error.
+the zen of python
+Which of these phrases is from te zen of python
+1 keep your code compressed
+2 Keep your code organized
+3 Readability is not crucial but nice to have
+4 Readability Counts
+4
+Readability counts is the seventh line in the zen of python
+the zen of python
+Which of these phrases is from te zen of python
+1 keep your code compressed
+2 Keep your code organized
+3 Readability is not crucial but nice to have
+4 Explicit is better than implicit
+4
+beutiful is better than ugly is the first line in the zen of python
+Errors
+What kind of error will you get if you don't tab in your code correctly
+1 Logic error
+2 I dunno
+3 Syntax error
+4 I dunno
+3
+The error you get for tabbing wrong is a syntax error
+Errors
+What kind of error will you get if you use a semicolon at the end of a line in your code correctly
+1 Logic error
+2 I dunno
+3 Syntax error
+4 I dunnoo
+3
+The error you get for using other programing language logic is a syntax error
+Errors
+What kind of error will you get if you don't tab in your code correctly
+1 Logic error
+2 I dunno
+3 Syntax error
+4 I dunnoo
+3
+The error you get for tabbing wrong is a syntax error
+Code Understading
+What does a print statement do
+1 It prints the value of what is in its paramaters
+2 it prints anything you want
+3 It prints strings
+4 It prints anything that exists in the code as well as values inside the paramaters
+4
+A print satement prints text in the console
+Value definition
+What is a float
+1 A number
+2 a line of text
+3 A number with a decimal
+4 A true or false statement
+3
+A float is a value given to a number with a decimal
+Value definition
+What is a string
+1 A number
+2 a line of text
+3 A number with a decimal
+4 A true or false statement
+2
+A string is a value in the program that stores text
+Value definition
+What is a boolean
+1 A number
+2 a line of text
+3 A number with a decimal
+4 A true or false statement
+4
+A boolean is a value that can only ever be true or false
+Value definition
+What is a integer
+1 A number with no decimals
+2 a line of text
+3 A number with a decimal
+4 A true or false statement
+1
+An integer is a value that is stored as a number with no decimals
+Code Knowledge
+What does an input statement do
+1 allows for more code to be implemented
+2 Takes an input from a user and turns it into a value depending on the characters
+3 Takes an input from a user as a string
+4 allows the user to type and does nothing else
+3
+A input statement takes input from a user and turns it into a string
+Code knowledge
+What is a If statement
+1 A statement that has to have a certain peramter to be run
+2 A statement that asks the user a question
+3 I dunno
+4 A statement that compares values to each other
+1
+An if statement needs to have a certain perameter to be run
+Basic Knowledge
+What kind of language is python
+1 Spoken
+2 Programing
+3 Interpreted
+4 Alien
+3
+Python is an interpreted language
+basic Knowledge
+what is an interpreted language
+1 A language that needs to be translated to binary by the computer
+2 A language that can be programed in and then later edited without fail
+3 I dunno
+4 A language that needs an interpreter program to run
+4
+An intepreted language needs an interpreter to run, otherwise the computer will not understand the language.
+Code logic
+How does on define a string
+1 They just type out text
+2 They put a set of single quotes around text
+3 I dunno
+4 They put a set of double quotes around the text
+4
+to define a string one needs to put double quotes around an object otherwise they might get an error or the will make an undefined variable
+Basic Knowledge
+Was python built with one use in mind
+1 Yes
+2 No
+3
+4
+2
+Python was not built with only one use in mind
+code logic
+Why are indents crucial in python
+1 they aren't
+2 They make th ecode look nice and oganized
+3 I dunno
+4 Due to the simplicity of the language if the indents are incorect then the interprter will interpret the code wrong resulting in errors
+4
+Python is very case sensitive when it comes to indents
+Basic Knowledge
+Booleans always need to be capitalized
+1 True
+2 False
+3
+4
+1
+A boolean will not run if it is not capitalized
+Errors
+What kind of error will you get if you program somthing to run abd it dosent
+1 Logic error
+2 I dunno
+3 Syntax error
+4 I dunno
+1
+Code that dosen't run is a logic error and will not be displayed
+Errors
+will logic errors cause a program to stop
+1 Yes
+2 No
+3
+4
+2
+Logic errors will not cause a program to stop

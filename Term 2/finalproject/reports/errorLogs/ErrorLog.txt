@@ -1,0 +1,5 @@
+2023-01-11 12:18:43.888440
+[Errno 2] No such file or directory: 'C:\\Users\\dylan.cowley\\Desktop\\Python Projects 2022 Dylan Cowley\\Term 2\\finalproject\\exams\\asdfasdf'/nfile name that was usedasdfasdf2023-01-11 12:19:29.134963
+[Errno 2] No such file or directory: 'C:\\Users\\dylan.cowley\\Desktop\\Python Projects 2022 Dylan Cowley\\Term 2\\finalproject\\exams\\Test.txt'/nfile name that was usedTest.txt2023-01-11 12:56:40.377864
+[Errno 2] No such file or directory: 'C:\\Users\\dylan.cowley\\Desktop\\Python Projects 2022 Dylan Cowley\\Term 2\\finalproject\\exams\\Test'/nfile name that was usedTest2023-01-11 13:26:28.020394
+[Errno 2] No such file or directory: 'C:\\Users\\dylan.cowley\\Desktop\\Python Projects 2022 Dylan Cowley\\Term 2\\finalproject\\exams\\Quiz'/nfile name that was usedQuiz

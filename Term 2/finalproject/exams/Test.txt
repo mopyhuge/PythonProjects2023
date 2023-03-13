@@ -1,0 +1,201 @@
+Dylan Cowley
+spelling
+How do you spell Python?
+Python
+Piethon
+Pythan
+Snake
+1
+In the dictionary it is spelt: Python
+spelling
+How do you spell Code?
+Code
+Coode
+Cod
+Cood
+1
+In the dictionary it is spelt: Code
+spelling
+How do you spell Application?
+Application
+Aplication
+Applicasion
+App
+1
+In the dictionary it is spelt Application
+True or False
+True or False you love the Zen of Python?
+True
+False
+No
+No because I want to fail
+1
+Every coder loves the zen of Python
+Multiple choice
+When do you normally see the effects of a logical error?
+When the program is running
+After the program ends
+Before the program starts
+Any of these times is possible
+1
+When the program is running you can see the logical errors
+Multiple choice
+Why are logical errors sometimes harder to find and fix?
+You do not see any error messages that give you hints about the problem
+You have to keep re-starting your program after it crashes
+The logical error messages are more complicated than other error messages
+You do not have any tools to help you find and fix those kinds of problems
+1
+There is no error message so you have to go through your code to find it
+Multiple choice
+Which function do we suggest using to create your program trace statements?
+print()
+trace()
+breakpoint()
+display()
+1
+Using print will print will print out the trace statements were you want it
+Multiple choice
+Which of the following is NOT displayed in a syntax error message?
+The suggested best practice for avoiding the error in the future
+A carat (^) pointing at the likely location of the error within a statement
+The line of code where the error was found
+All of these are true
+1
+The suggested best practice for avoiding the error in the future will not show up
+Multiple choice
+Which of the following is NOT a general category of error?
+Sneaky Error
+Logical error
+Syntax error
+Runtime exception
+1
+Sneaky Errors are not general category of errors
+Multiple choice
+Why is Python a good language for beginning programmers to learn?
+Python is free and easy to use
+Python comes with professional source control features
+Computer games written in Python are easier to sell
+All of these are true
+1
+Python is free and easy to use
+Multiple choice
+Which of the following is true about data returned from a function?
+All of these are true
+You can store it in a variable for later use
+You can use it immediately in some other expression or statement
+You can ignore it
+1
+All of the options are ture about data returned from a function
+Multiple choice
+Which of the following best describes the str.split() function?
+It returns a list of individual words within a string, using white space as a default separator
+It builds one new string from all of the even-numbered characters and a second string from the odd-numbered characters
+It copies an original string value into a new variable
+It breaks a string in half and returns the first par
+1
+It returns a list of individual words within a string, using white space as a default separator
+Multiple choice
+What is the effect of calling random.shuffle() on a list?
+The items in the list are re-ordered randomly
+The items in the list are sorted from smallest to largest
+Each item in the list gets a new random value
+A random number of items in the list are removed completely
+1
+The effect of calling random.shuffle re-ordereds randomly
+Terms
+What general term to software engineers use to describe errors in programs?
+Bugs
+Breakpoints
+Flops
+Tracepoints
+1
+software engineers use the term bug to describe errors in there code
+Multiple choice
+Which of the following is a constant value defined by the Python math library?
+Both of these are true
+Math.pi
+Math.e
+Neither of these are true
+1
+Both of them are defined by python math library
+Multiple choice
+What is the result of calling math.floor(5.9)?
+5
+8
+10
+6
+1
+When you call math.floor(5.9) it will take the 5
+Multiple choice
+What is the result of calling the core math function max([3,5,7,9])?
+9
+3
+7
+5
+1
+When calling the core math function max it will call the highest function inside
+Multiple choice
+Which of the following statements will let you use the Python date and time library?
+Important datetime
+Use date time
+Add date
+Import date/time
+1
+Using import datetime will let you access the date and time
+Multiple choice
+Which of the following best describes the input() function?
+Asks the user a question and returns a string answer
+Asks the user a question and returns a numeric answer within a specific range
+Displays a multiple choice question and returns a letter answer
+Asks the user a question and returns a list of possible answers
+1
+The input function ask for a users input and will return a string answer
+Multiple choice
+How long will the input() function wait for user input?
+Forever, until the user enters a value and hits Enter
+For up to 10 seconds
+For as long as you specify in the timeout parameter
+For up to 1 minute
+1
+The input will always wait Intel the user enters a value and hits enter
+Multiple choice
+Why might you use the random.seed()function?
+To begin generating the same sequence of random numbers from a particular seed value
+To ensure random numbers will start out small and then grow over time
+To enable the random library to provide any random numbers at all
+To set the minimum and maximum values produced by the random function
+1
+You would use the random.seed function to generate random sequences of from a particular seed value
+Multiple choice
+How much do love coding
+Love it
+Hate it
+Its okay
+I like it
+1
+You will love it
+Multiple choice
+How is this python test
+The best
+Okay
+Fail me
+I have seen better
+1
+This is the best test ever
+Multiple choice
+Which is better python or c+
+Python
+C+
+What are you talking about
+Neither
+1
+Python that is why you are in this class
+Multiple choice
+Are you happy to be done with the test
+Yes
+No
+Never
+I never want to leave
+1
+We both want to be done
